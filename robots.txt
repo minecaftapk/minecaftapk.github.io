@@ -1,4 +1,2 @@
-# START YOAST BLOCK
-# ---------------------------
 User-agent: *
-Disallow:
+Disallow: /login/
